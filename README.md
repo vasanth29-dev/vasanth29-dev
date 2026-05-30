@@ -51,7 +51,7 @@
  │  🌱  Learning: Generative AI & Gemini API    │
  │  🩺  Built an AI that predicts diseases!     │
  │  🗣️  Languages: English & Tamil             │
- │  📍  Tamil Nadu, India  🇮🇳                  │
+ │  📍 Coimbatore, Tamil Nadu, India  🇮🇳                  │
  │  📫  vmvasanth29@gmail.com                   │
  ╰──────────────────────────────────────────────╯
 ```
@@ -71,7 +71,7 @@ class Vasanth:
     def __init__(self):
         self.name              = "Vasanth VM"
         self.username          = "vasanth29-dev"
-        self.location          = "Tamil Nadu, India 🇮🇳"
+        self.location          = "Coimbatore, Tamil Nadu, India 🇮🇳"
         self.email             = "vmvasanth29@gmail.com"
         self.degree            = "BSC CS (Artificial Intelligence) — 2023–2026"
         self.college           = "PPG College of Arts and Science, Coimbatore"
@@ -193,158 +193,133 @@ print(me.motto())
 <!--                    PROJECTS SECTION                         -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"/> &nbsp; Featured Projects
+## 🗂️ &nbsp; Featured Projects
 
 <br/>
 
-<!-- PROJECT 1 -->
-<details open>
-<summary>
-  <img src="https://img.shields.io/badge/🚗_PROJECT_01-Car_Price_Prediction_System-FF6B6B?style=for-the-badge" alt="Project 1"/>
-</summary>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  PROJECT CARD 01                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
-
-<table>
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="3%" style="background-color:#3776AB;">&nbsp;</td>
+<td width="97%" valign="top" style="padding: 16px;">
 
-### 🚗 Car Price Prediction System
+<table width="100%">
+<tr>
+<td valign="top">
 
-> **AI/ML Model that predicts car prices using regression techniques**
-
-📌 **Description**
-A machine learning model that intelligently predicts car prices based on key features. Uses regression algorithms with data preprocessing pipelines to deliver accurate price estimates.
-
-🔥 **Features**
-- 📊 Regression-based price prediction engine
-- 🧹 Data preprocessing & feature optimization
-- 📈 Multiple model evaluation & selection
-- 🔍 Feature importance analysis
-
-🛠️ **Tech Stack**
+**`01`** &nbsp; 🚗 &nbsp; **Car Price Prediction System**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression%20Models-4479A1?style=flat-square&logo=databricks&logoColor=white)
 
-<br/>
+Predicts car prices using supervised ML regression techniques. Includes a full data preprocessing pipeline with feature engineering and model evaluation to deliver accurate price estimates from vehicle attributes.
 
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vasanth29-dev)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-70A5FD?style=for-the-badge)](https://github.com/vasanth29-dev)
+**Key Features**
+- Regression-based price prediction from vehicle attributes
+- Data preprocessing, cleaning & feature optimization
+- Model comparison & selection for best accuracy
 
 </td>
-<td width="45%" align="center">
+<td width="160px" align="right" valign="top">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkNGVheHFxZmpidnFibzZuNXNiNTF3eWI0cGF1MHZzNzlpbGpuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="ML GIF"/>
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasanth29-dev/car-price-prediction)
 
 </td>
 </tr>
 </table>
 
-</details>
-
-<br/>
-
-<!-- PROJECT 2 -->
-<details open>
-<summary>
-  <img src="https://img.shields.io/badge/🤖_PROJECT_02-Body_Language_Detection_System-BF91F3?style=for-the-badge" alt="Project 2"/>
-</summary>
-
-<br/>
-
-<table>
-<tr>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlsMW51OXhjdGltMG9hZnBveXhqNXF5ZjFhOXdlcWp6aGVxcGFtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="280" alt="Computer Vision GIF"/>
-
 </td>
-<td width="55%">
+</tr>
+</table>
 
-### 🤖 Body Language Detection System
+<br/>
 
-> **Real-time computer vision system using OpenCV for live gesture recognition**
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  PROJECT CARD 02                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-📌 **Description**
-A real-time computer vision system that reads body language through live webcam feed. Analyzes continuous video input to recognize and classify gestures and movements instantly.
+<table width="100%">
+<tr>
+<td width="3%" style="background-color:#5C3EE8;">&nbsp;</td>
+<td width="97%" valign="top" style="padding: 16px;">
 
-🔥 **Features**
-- 🎥 Real-time webcam-based video analysis
-- 🖐️ Live gesture recognition engine
-- ⚡ Continuous frame-by-frame processing
-- 📡 Low-latency inference pipeline
+<table width="100%">
+<tr>
+<td valign="top">
 
-🛠️ **Tech Stack**
+**`02`** &nbsp; 🤖 &nbsp; **Body Language Detection System**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<br/>
+Real-time computer vision system using OpenCV that analyzes live webcam input to detect and classify body language and gestures. Processes continuous video frames for instant recognition.
 
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vasanth29-dev)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-BF91F3?style=for-the-badge)](https://github.com/vasanth29-dev)
+**Key Features**
+- Real-time body language detection via live webcam
+- Continuous frame-by-frame gesture classification
+- Instant recognition with low-latency video processing
+
+</td>
+<td width="160px" align="right" valign="top">
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasanth29-dev/body-language-detection)
 
 </td>
 </tr>
 </table>
 
-</details>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- PROJECT 3 -->
-<details open>
-<summary>
-  <img src="https://img.shields.io/badge/🏥_PROJECT_03-AI_Healthcare_Assistant_(Web_+_Android)-38BDAE?style=for-the-badge" alt="Project 3"/>
-</summary>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  PROJECT CARD 03                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
-
-<table>
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="3%" style="background-color:#38BDAE;">&nbsp;</td>
+<td width="97%" valign="top" style="padding: 16px;">
 
-### 🏥 AI Healthcare Assistant
+<table width="100%">
+<tr>
+<td valign="top">
 
-> **AI-powered disease prediction app available on both Web and Android**
-
-📌 **Description**
-A cross-platform AI healthcare application that predicts diseases based on user-provided symptoms. Built for both web browsers and Android devices, delivering automated health suggestions powered by machine learning models.
-
-🔥 **Features**
-- 🩺 AI-based disease prediction from user symptoms
-- 💡 Automated health suggestions & recommendations
-- 🌐 Web platform (Python backend + JS frontend)
-- 📱 Android APK — built & deployed via Android Studio
-- 🔄 Cross-platform consistency (Web + Mobile)
-
-🛠️ **Tech Stack**
+**`03`** &nbsp; 🏥 &nbsp; **AI Healthcare Assistant** &nbsp; `Web + Android`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-<br/>
+Cross-platform AI application for disease prediction. Users input symptoms and receive automated health suggestions powered by ML models — deployed as both a web app (Python + JS) and a native Android APK.
 
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vasanth29-dev)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-38BDAE?style=for-the-badge)](https://github.com/vasanth29-dev)
+**Key Features**
+- AI-driven disease prediction from user-provided symptoms
+- Automated health suggestions based on model output
+- Dual deployment — web platform & Android APK via Android Studio
 
 </td>
-<td width="45%" align="center">
+<td width="160px" align="right" valign="top">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVmM3NhMGZ5ajc1eXBzdGsxb3UzbWU4YjJ5NHc0NHl2MGJlZzliMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280" alt="Healthcare AI GIF"/>
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasanth29-dev/ai-healthcare-assistant)
 
 </td>
 </tr>
 </table>
 
-</details>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -504,7 +479,7 @@ A cross-platform AI healthcare application that predicts diseases based on user-
 
 ### *"The best way to predict the future is to build it."*
 
-**— Vasanth VM** &nbsp;|&nbsp; Tamil Nadu, India 🇮🇳
+**— Vasanth VM** &nbsp;|&nbsp; Coimbatore Tamil Nadu, India 🇮🇳
 
 <br/>
 
