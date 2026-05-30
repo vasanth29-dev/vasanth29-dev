@@ -1,138 +1,389 @@
+<!-- ██████████████████████████████████████████████████████████ -->
+<!--                  VASANTH.VM — GitHub Profile README        -->
+<!-- ██████████████████████████████████████████████████████████ -->
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                       HERO BANNER                          -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VASANTH.VM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+%7C+AI%2FML+Engineer+%7C+Android+App+Builder&descAlignY=62&descSize=16)
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=VASANTH%20.%20VM&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=⚡%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Android%20Builder%20⚡&descAlignY=60&descSize=17&descColor=a9b1d6)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vasanth+%F0%9F%91%8B;Full+Stack+%7C+Python+%7C+AI%2FML+Developer;Building+Web+%2B+Android+%2B+AI+Solutions;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=vasanth29-dev&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=🤖+Building+AI+%26+ML+Solutions...;🌐+Full+Stack+Web+%2B+Android+Developer;🐍+Python+%7C+OpenCV+%7C+Machine+Learning;🚀+Turning+Ideas+Into+Real+Products;💡+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vasanth29-dev&label=👁️+Profile+Views&color=70a5fd&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/vasanth29-dev?label=Followers&style=for-the-badge&color=bf91f3&logo=github" alt="Followers"/>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                      SVG WAVE DIVIDER                      -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### 👋 Hey, I'm Vasanth!
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                        ABOUT ME                            -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-> 🚀 *Full Stack Developer with experience in frontend development, Python backend, and SQL database management. Built web and Android applications along with AI/ML-based solutions. Strong in problem-solving, application development, and deploying practical software solutions.*
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> &nbsp; About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+
+### 👋 Hey there! I'm **Vasanth VM**
+
+> 🚀 **Full Stack Developer** with experience in frontend development, Python backend, and SQL database management. Built web and Android applications along with AI/ML-based solutions. Strong in problem-solving, application development, and deploying practical software solutions.
 
 <br/>
 
-- 🎓 &nbsp; Studying **BSC CS (AI)** @ PPG College of Arts & Science, Coimbatore
-- 💻 &nbsp; Love building **Web Apps**, **Android Apps** & **AI/ML Solutions**
-- 🌱 &nbsp; Currently exploring **Generative AI & Gemini API**
-- 🩺 &nbsp; Fun fact: *I built an AI that predicts diseases!*
-- 🗣️ &nbsp; Languages: **English** & **Tamil**
-- 📫 &nbsp; Reach me at **vmvasanth29@gmail.com**
+```
+ ╭──────────────────────────────────────────────╮
+ │  🎓  BSC CS (AI) — PPG College, Coimbatore   │
+ │  💻  Web • Android • AI/ML Developer         │
+ │  🌱  Learning: Generative AI & Gemini API    │
+ │  🩺  Built an AI that predicts diseases!     │
+ │  🗣️  Languages: English & Tamil             │
+ │  📍  Tamil Nadu, India  🇮🇳                  │
+ │  📫  vmvasanth29@gmail.com                   │
+ ╰──────────────────────────────────────────────╯
+```
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=38BDAE&width=500&lines=Problem+Solver+%F0%9F%A7%A0;Quick+Learner+%26+Adaptable+%F0%9F%93%88;Passionate+about+AI+%26+Development+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&color=38BDAE&width=480&lines=🧠+Problem+Solver+%26+Quick+Learner;🤝+Strong+Communication+Skills;⚡+Adaptability+%26+Fast+Execution;🔁+Build%2C+Break%2C+Learn%2C+Repeat)](https://git.io/typing-svg)
 
 <br clear="right"/>
 
----
+<br/>
 
 ### 💡 In a Nutshell
 
 ```python
 class Vasanth:
     def __init__(self):
-        self.name         = "Vasanth VM"
-        self.username     = "vasanth29-dev"
-        self.location     = "Tamil Nadu, India 🇮🇳"
-        self.email        = "vmvasanth29@gmail.com"
-        self.degree       = "BSC CS (Artificial Intelligence)"
-        self.college      = "PPG College of Arts and Science, Coimbatore"
-        self.stack        = [
-            "Python", "HTML", "CSS", "JavaScript",
-            "Machine Learning", "OpenCV", "SQL",
-            "Android Studio"
-        ]
-        self.currently_learning = [
-            "Generative AI & Gemini API",
-            "Advanced ML Algorithms",
-            "Cloud Deployment"
-        ]
-        self.fun_fact     = "I built an AI that predicts diseases 🩺"
-        self.languages    = ["English", "Tamil"]
-        self.soft_skills  = ["Problem Solving", "Communication", "Adaptability"]
+        self.name              = "Vasanth VM"
+        self.username          = "vasanth29-dev"
+        self.location          = "Tamil Nadu, India 🇮🇳"
+        self.email             = "vmvasanth29@gmail.com"
+        self.degree            = "BSC CS (Artificial Intelligence) — 2023–2026"
+        self.college           = "PPG College of Arts and Science, Coimbatore"
+        self.stack             = ["Python", "HTML", "CSS", "JavaScript",
+                                  "Machine Learning", "OpenCV", "SQL", "Android Studio"]
+        self.currently_learning = ["Generative AI", "Gemini API", "Advanced ML",
+                                   "Cloud Deployment"]
+        self.fun_fact          = "I built an AI that predicts diseases 🩺"
+        self.soft_skills       = ["Problem Solving", "Communication", "Adaptability"]
+        self.languages_spoken  = ["English", "Tamil"]
 
-    def motto(self):
-        return "Build, Break, Learn, Repeat 🔁"
+    def motto(self) -> str:
+        return "Build. Break. Learn. Repeat. 🔁"
 
 me = Vasanth()
 print(me.motto())
+# Output: Build. Break. Learn. Repeat. 🔁
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-**Languages**
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    TECH STACK SECTION                       -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/> &nbsp; Tech Stack
+
+> 🔗 **Click any badge to explore the official documentation!**
+
+<br/>
+
+**🐍 Languages**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)
+
+<br/>
+
+**🤖 AI / ML & Libraries**
+
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://developers.google.com/machine-learning)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://docs.opencv.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Generative AI](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
+
+<br/>
+
+**📱 App & Platform Tools**
+
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+<br/>
+
+**🗄️ Database**
+
+[![SQL DB](https://img.shields.io/badge/SQL%20Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+<br/>
+
+**🤝 Soft Skills**
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-70A5FD?style=for-the-badge&logo=lightbulb&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-38BDAE?style=for-the-badge&logo=discourse&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-BF91F3?style=for-the-badge&logo=buffer&logoColor=white)
+![Quick Learning](https://img.shields.io/badge/Quick%20Learning-FF6F00?style=for-the-badge&logo=bookstack&logoColor=white)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   LEARNING ROADMAP                          -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🗺️ &nbsp; Learning Journey Roadmap
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║          🚀  MY PATH TO FULL STACK AI ENGINEER  🚀             ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║   ✅  Python           ──▶   Core programming language         ║
+║        │                                                       ║
+║   ✅  HTML/CSS/JS      ──▶   Frontend & Web Development        ║
+║        │                                                       ║
+║   ✅  SQL              ──▶   Database Management               ║
+║        │                                                       ║
+║   ✅  Machine Learning ──▶   Regression, Classification        ║
+║        │                                                       ║
+║   ✅  OpenCV           ──▶   Computer Vision & Real-time CV    ║
+║        │                                                       ║
+║   ✅  Android Studio   ──▶   APK Development & Deployment      ║
+║        │                                                       ║
+║   🔄  Generative AI    ──▶   Gemini API, LLMs, Prompt Eng.    ║
+║        │                                                       ║
+║   🔄  Cloud Deploy     ──▶   Hosting, Serverless, APIs         ║
+║        │                                                       ║
+║   🎯  Full Stack AI    ──▶   Complete AI-Powered Applications  ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    PROJECTS SECTION                         -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"/> &nbsp; Featured Projects
+
+<br/>
+
+<!-- PROJECT 1 -->
+<details open>
+<summary>
+  <img src="https://img.shields.io/badge/🚗_PROJECT_01-Car_Price_Prediction_System-FF6B6B?style=for-the-badge" alt="Project 1"/>
+</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%">
+
+### 🚗 Car Price Prediction System
+
+> **AI/ML Model that predicts car prices using regression techniques**
+
+📌 **Description**
+A machine learning model that intelligently predicts car prices based on key features. Uses regression algorithms with data preprocessing pipelines to deliver accurate price estimates.
+
+🔥 **Features**
+- 📊 Regression-based price prediction engine
+- 🧹 Data preprocessing & feature optimization
+- 📈 Multiple model evaluation & selection
+- 🔍 Feature importance analysis
+
+🛠️ **Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<br/>
+
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vasanth29-dev)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-70A5FD?style=for-the-badge)](https://github.com/vasanth29-dev)
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkNGVheHFxZmpidnFibzZuNXNiNTF3eWI0cGF1MHZzNzlpbGpuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="ML GIF"/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<!-- PROJECT 2 -->
+<details open>
+<summary>
+  <img src="https://img.shields.io/badge/🤖_PROJECT_02-Body_Language_Detection_System-BF91F3?style=for-the-badge" alt="Project 2"/>
+</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlsMW51OXhjdGltMG9hZnBveXhqNXF5ZjFhOXdlcWp6aGVxcGFtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="280" alt="Computer Vision GIF"/>
+
+</td>
+<td width="55%">
+
+### 🤖 Body Language Detection System
+
+> **Real-time computer vision system using OpenCV for live gesture recognition**
+
+📌 **Description**
+A real-time computer vision system that reads body language through live webcam feed. Analyzes continuous video input to recognize and classify gestures and movements instantly.
+
+🔥 **Features**
+- 🎥 Real-time webcam-based video analysis
+- 🖐️ Live gesture recognition engine
+- ⚡ Continuous frame-by-frame processing
+- 📡 Low-latency inference pipeline
+
+🛠️ **Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+<br/>
+
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vasanth29-dev)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-BF91F3?style=for-the-badge)](https://github.com/vasanth29-dev)
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<!-- PROJECT 3 -->
+<details open>
+<summary>
+  <img src="https://img.shields.io/badge/🏥_PROJECT_03-AI_Healthcare_Assistant_(Web_+_Android)-38BDAE?style=for-the-badge" alt="Project 3"/>
+</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%">
+
+### 🏥 AI Healthcare Assistant
+
+> **AI-powered disease prediction app available on both Web and Android**
+
+📌 **Description**
+A cross-platform AI healthcare application that predicts diseases based on user-provided symptoms. Built for both web browsers and Android devices, delivering automated health suggestions powered by machine learning models.
+
+🔥 **Features**
+- 🩺 AI-based disease prediction from user symptoms
+- 💡 Automated health suggestions & recommendations
+- 🌐 Web platform (Python backend + JS frontend)
+- 📱 Android APK — built & deployed via Android Studio
+- 🔄 Cross-platform consistency (Web + Mobile)
+
+🛠️ **Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML & Libraries**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**App & Tools**
-
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Databases**
+<br/>
 
-![MySQL](https://img.shields.io/badge/SQL%20Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vasanth29-dev)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-38BDAE?style=for-the-badge)](https://github.com/vasanth29-dev)
 
----
+</td>
+<td width="45%" align="center">
 
-## 📊 GitHub Stats
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVmM3NhMGZ5ajc1eXBzdGsxb3UzbWU4YjJ5NHc0NHl2MGJlZzliMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280" alt="Healthcare AI GIF"/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    GITHUB STATS                             -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/vasanth29-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasanth29-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasanth29-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12"/>
 </a>
 <a href="https://github.com/vasanth29-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth29-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth29-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12"/>
 </a>
 
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vasanth29-dev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12)](https://git.io/streak-stats)
+
 </div>
 
----
+<br/>
 
-## 🔥 Streak Stats
+## 📈 &nbsp; Contribution Graph
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vasanth29-dev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasanth29-dev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&border_radius=12)](https://github.com/vasanth29-dev)
 
 </div>
 
----
+<br/>
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Vasanth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasanth29-dev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vasanth29-dev)
-
-</div>
-
----
-
-## 🏆 Trophies
+## 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
 
@@ -140,117 +391,127 @@ print(me.motto())
 
 </div>
 
----
+<br/>
 
-## 💼 Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<details>
-<summary>🚗 <strong>Car Price Prediction System</strong> — ML Regression Model</summary>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   CERTIFICATES SECTION                      -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-> ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+## 🎖️ &nbsp; Certificates & Achievements
 
-- 🔧 Built a machine learning model to predict car prices using regression techniques
-- 📊 Improved prediction performance through data preprocessing and feature optimization
-
-</details>
-
-<details>
-<summary>🤖 <strong>Body Language Detection System</strong> — Computer Vision</summary>
-
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-- 🎥 Developed a real-time computer vision system using OpenCV
-- 🖐️ Enabled live gesture recognition through continuous webcam-based analysis
-
-</details>
-
-<details>
-<summary>🏥 <strong>AI Healthcare Assistant</strong> — Web + Android App</summary>
-
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-> ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- 🩺 Created an AI-based disease prediction application for web and Android platforms
-- 💡 Delivered automated health suggestions based on user input and model predictions
-
-</details>
-
----
-
-## 🚀 Featured Projects
+<br/>
 
 <div align="center">
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| 🚗 Car Price Prediction | Python, ML, scikit-learn | Regression model with data preprocessing & feature optimization |
-| 🤖 Body Language Detector | Python, OpenCV | Real-time webcam-based gesture recognition system |
-| 🏥 AI Healthcare Assistant | Python, ML, Android Studio, JS | Disease prediction app for Web & Android platforms |
+| 🏅 Badge | 📜 Certificate | 🏢 Issuer | 🔗 |
+|:---------:|----------------|-----------|:--:|
+| 🤖 | **Generative AI & Gemini API for Web Applications** | Google | [![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/learn/certifications) |
+| 🧠 | **AI & Generative AI Fundamentals** | Microsoft Learn | [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/) |
+| 🤝 | **Getting Started with Microsoft Copilot** | Microsoft | [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/) |
+| 🐍 | **Machine Learning with Python** | Simplilearn | [![Simplilearn](https://img.shields.io/badge/Simplilearn-FF6B35?style=flat-square&logo=bookmeter&logoColor=white)](https://www.simplilearn.com/) |
 
 </div>
 
----
+<br/>
 
-## 🎖️ Certificates
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                    EDUCATION SECTION                        -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🎓 &nbsp; Education
+
+<br/>
 
 <div align="center">
 
-| 🏅 | Certificate | Issuer |
-|----|------------|--------|
-| 🤖 | Generative AI & Gemini API for Web Applications | Google |
-| 🧠 | AI & Generative AI Fundamentals | Microsoft Learn |
-| 🤝 | Getting Started with Microsoft Copilot | Microsoft |
-| 🐍 | Machine Learning with Python | Simplilearn |
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📍 Location |
+|-----------|:-------------:|:-------:|:-----------:|
+| **BSC Computer Science (Artificial Intelligence)** | PPG College of Arts and Science | 2023 – 2026 | Coimbatore, TN |
+| **Higher Secondary (12th Grade)** | Sri Aurobindo Vidyalaya Matric Hr Sec School | 2021 – 2023 | Neyveli, TN |
 
 </div>
 
----
+<br/>
 
-## 🎓 Education
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                  CURRENTLY LEARNING                         -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 📚 &nbsp; Currently Learning
 
 <div align="center">
-
-| 🎓 Degree | 🏛️ Institution | 📅 Year |
-|-----------|---------------|---------|
-| BSC Computer Science (Artificial Intelligence) | PPG College of Arts and Science, Coimbatore | 2023 – 2026 |
-| Higher Secondary (12th) | Sri Aurobindo Vidyalaya Matric Hr Sec School, Neyveli | 2021 – 2023 |
-
-</div>
-
----
-
-## 📚 Currently Learning
 
 ```
-🤖 Generative AI     → Gemini API, Prompt Engineering, LLM Applications
-☁️  Cloud Platforms  → Deployment, Serverless, Hosting
-🧪 Advanced ML       → Deep Learning, Neural Networks, Model Optimization
-📱 App Development   → Advanced Android, APK Optimization
+╔══════════════════════════════════════════════════════════════╗
+║                  📖  ACTIVE LEARNING STACK                   ║
+╠══════════════════════════════════════════════════════════════╣
+║  🤖  Generative AI  →  Gemini API · Prompt Engineering       ║
+║  ☁️   Cloud Deploy  →  Hosting · Serverless · REST APIs      ║
+║  🧪  Advanced ML    →  Deep Learning · Neural Networks        ║
+║  📱  Android Dev    →  Advanced APK · Play Store Deployment  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-## 📬 Connect With Me
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--               RESUME + CONNECT SECTION                      -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 📬 &nbsp; Connect With Me & Resume
+
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-vmvasanth29@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vmvasanth29@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vasanth29--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vasanth29-dev)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--8903976223-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918903976223)
+[![Email](https://img.shields.io/badge/📧_Email-vmvasanth29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmvasanth29@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-vasanth29--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasanth29-dev)
+&nbsp;
+[![Phone](https://img.shields.io/badge/📱_WhatsApp-%2B91--8903976223-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918903976223)
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-70A5FD?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/vasanth29-dev)
+&nbsp;
+[![Resume](https://img.shields.io/badge/📄_Resume-Download_CV-BF91F3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/vasanth29-dev)
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                      FOOTER                                 -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-*"Build, Break, Learn, Repeat 🔁"*
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+### *"The best way to predict the future is to build it."*
+
+**— Vasanth VM** &nbsp;|&nbsp; Tamil Nadu, India 🇮🇳
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐+Star+some+repos+if+you+like+my+work!)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling)
