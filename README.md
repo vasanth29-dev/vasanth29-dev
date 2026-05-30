@@ -12,7 +12,30 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### 👋 Hey, I'm Vasanth!
+
+> 🚀 *Full Stack Developer with experience in frontend development, Python backend, and SQL database management. Built web and Android applications along with AI/ML-based solutions. Strong in problem-solving, application development, and deploying practical software solutions.*
+
+<br/>
+
+- 🎓 &nbsp; Studying **BSC CS (AI)** @ PPG College of Arts & Science, Coimbatore
+- 💻 &nbsp; Love building **Web Apps**, **Android Apps** & **AI/ML Solutions**
+- 🌱 &nbsp; Currently exploring **Generative AI & Gemini API**
+- 🩺 &nbsp; Fun fact: *I built an AI that predicts diseases!*
+- 🗣️ &nbsp; Languages: **English** & **Tamil**
+- 📫 &nbsp; Reach me at **vmvasanth29@gmail.com**
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=38BDAE&width=500&lines=Problem+Solver+%F0%9F%A7%A0;Quick+Learner+%26+Adaptable+%F0%9F%93%88;Passionate+about+AI+%26+Development+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+<br clear="right"/>
+
+---
+
+### 💡 In a Nutshell
 
 ```python
 class Vasanth:
@@ -43,8 +66,6 @@ class Vasanth:
 me = Vasanth()
 print(me.motto())
 ```
-
-<br clear="right"/>
 
 ---
 
