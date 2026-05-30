@@ -19,23 +19,23 @@ class Vasanth:
     def __init__(self):
         self.name         = "Vasanth VM"
         self.username     = "vasanth29-dev"
-        self.location     = "Coimbatore, Tamil Nadu, India 🇮🇳"
+        self.location     = "Tamil Nadu, India 🇮🇳"
         self.email        = "vmvasanth29@gmail.com"
         self.degree       = "BSC CS (Artificial Intelligence)"
-        self.college      = "PPG College of Arts and Science"
+        self.college      = "PPG College of Arts and Science, Coimbatore"
         self.stack        = [
             "Python", "HTML", "CSS", "JavaScript",
             "Machine Learning", "OpenCV", "SQL",
-            "Android Studio", "Flask / FastAPI"
+            "Android Studio"
         ]
         self.currently_learning = [
             "Generative AI & Gemini API",
             "Advanced ML Algorithms",
-            "React.js",
             "Cloud Deployment"
         ]
         self.fun_fact     = "I built an AI that predicts diseases 🩺"
         self.languages    = ["English", "Tamil"]
+        self.soft_skills  = ["Problem Solving", "Communication", "Adaptability"]
 
     def motto(self):
         return "Build, Break, Learn, Repeat 🔁"
@@ -58,29 +58,21 @@ print(me.motto())
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-**AI / ML & Cloud**
+**AI / ML & Libraries**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/MS%20Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**App & Tools**
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools & Platforms**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL%20Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -135,13 +127,11 @@ print(me.motto())
 <summary>🚗 <strong>Car Price Prediction System</strong> — ML Regression Model</summary>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 > ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 - 🔧 Built a machine learning model to predict car prices using regression techniques
 - 📊 Improved prediction performance through data preprocessing and feature optimization
-- 🧹 Applied feature engineering and data cleaning pipelines for robust model accuracy
-- 📈 Evaluated multiple regression algorithms to select the best-performing model
 
 </details>
 
@@ -150,12 +140,9 @@ print(me.motto())
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-> ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
-- 🎥 Developed a real-time computer vision system using OpenCV for body language analysis
+- 🎥 Developed a real-time computer vision system using OpenCV
 - 🖐️ Enabled live gesture recognition through continuous webcam-based analysis
-- ⚡ Achieved real-time inference with low-latency webcam feed processing
-- 🔍 Implemented landmark detection and pose estimation for accurate gesture classification
 
 </details>
 
@@ -163,43 +150,41 @@ print(me.motto())
 <summary>🏥 <strong>AI Healthcare Assistant</strong> — Web + Android App</summary>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-> ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+> ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+> ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 🩺 Created an AI-based disease prediction application for both web and Android platforms
+- 🩺 Created an AI-based disease prediction application for web and Android platforms
 - 💡 Delivered automated health suggestions based on user input and model predictions
-- 📱 Packaged and deployed as an Android APK via Android Studio
-- 🌐 Built the web version with a Python backend connected to an ML prediction engine
 
 </details>
 
 ---
 
-## 🚀 Featured Projects Table
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [🚗 Car Price Prediction](https://github.com/vasanth29-dev) | Python, scikit-learn, Pandas | ML regression model with feature optimization |
-| [🤖 Body Language Detector](https://github.com/vasanth29-dev) | Python, OpenCV, MediaPipe | Real-time webcam gesture recognition |
-| [🏥 AI Healthcare Assistant](https://github.com/vasanth29-dev) | Python, Android Studio, ML | Cross-platform disease prediction app (Web + APK) |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🚗 Car Price Prediction | Python, ML, scikit-learn | Regression model with data preprocessing & feature optimization |
+| 🤖 Body Language Detector | Python, OpenCV | Real-time webcam-based gesture recognition system |
+| 🏥 AI Healthcare Assistant | Python, ML, Android Studio, JS | Disease prediction app for Web & Android platforms |
 
 </div>
 
 ---
 
-## 🎖️ Achievements & Certificates
+## 🎖️ Certificates
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|----|------------|---------|
-| 🤖 | **Generative AI & Gemini API** | Google Certified — Web Application Development |
-| 🧠 | **AI & Generative AI Fundamentals** | Microsoft Learn Certified |
-| 🤝 | **Microsoft Copilot** | Getting Started Certification — Microsoft |
-| 🐍 | **Machine Learning with Python** | Simplilearn Certified |
+| 🏅 | Certificate | Issuer |
+|----|------------|--------|
+| 🤖 | Generative AI & Gemini API for Web Applications | Google |
+| 🧠 | AI & Generative AI Fundamentals | Microsoft Learn |
+| 🤝 | Getting Started with Microsoft Copilot | Microsoft |
+| 🐍 | Machine Learning with Python | Simplilearn |
 
 </div>
 
@@ -209,10 +194,10 @@ print(me.motto())
 
 <div align="center">
 
-| 🎓 Degree | 🏛️ Institution | 📅 Year | 📍 Location |
-|-----------|---------------|---------|------------|
-| BSC Computer Science (Artificial Intelligence) | PPG College of Arts and Science | 2023 – 2026 | Coimbatore, TN |
-| Higher Secondary (12th) | Sri Aurobindo Vidyalaya Matric Hr Sec School | 2021 – 2023 | Neyveli, TN |
+| 🎓 Degree | 🏛️ Institution | 📅 Year |
+|-----------|---------------|---------|
+| BSC Computer Science (Artificial Intelligence) | PPG College of Arts and Science, Coimbatore | 2023 – 2026 |
+| Higher Secondary (12th) | Sri Aurobindo Vidyalaya Matric Hr Sec School, Neyveli | 2021 – 2023 |
 
 </div>
 
@@ -221,11 +206,10 @@ print(me.motto())
 ## 📚 Currently Learning
 
 ```
-🤖 Generative AI     → Gemini API, Prompt Engineering, LLM Fine-tuning
-☁️  Cloud Platforms  → AWS / GCP Basics, Deployment, Serverless
-⚛️  React.js         → Component Architecture, Hooks, State Management
+🤖 Generative AI     → Gemini API, Prompt Engineering, LLM Applications
+☁️  Cloud Platforms  → Deployment, Serverless, Hosting
 🧪 Advanced ML       → Deep Learning, Neural Networks, Model Optimization
-🔒 Backend Security  → REST APIs, Authentication, Data Validation
+📱 App Development   → Advanced Android, APK Optimization
 ```
 
 ---
